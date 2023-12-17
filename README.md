@@ -16,4 +16,7 @@ To build the injector just use g++:
 ```bash
 g++ injector.cpp -o injector
 ```
+
+You can also use the visual studio version ;)
+
 Or use the already built version from the releases. (if you dont want to build it)
