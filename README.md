@@ -1,7 +1,5 @@
 # OLD!
-##
 # Slinky.gg cracked
-##
 ## Disclaimer
 
 Slinky.gg has been known to issue copyright strikes on YouTube videos that mention the crack. Please be aware of this if you plan to create content around this software.
