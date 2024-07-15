@@ -1,14 +1,11 @@
-# Slinky.gg cracked
-
-# All credits go to PlutoSolutions!
-The original crack: https://github.com/PlutoSolutions/Slinky
+# OLD!
 ##
-Decided to make an open-source version of the Slinky.gg crack injector. The original injector was closed source, so this version was created as an alternative.
-
+# Slinky.gg cracked
+##
 ## Disclaimer
 
 Slinky.gg has been known to issue copyright strikes on YouTube videos that mention the crack. Please be aware of this if you plan to create content around this software.
-![Image](https://exove.ovh/cdn/slinky_moment.png)
+![Dead image](https://exove.ovh/cdn/slinky_moment.png)
 ## Build
 
 To build the injector just use g++:
